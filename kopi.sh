@@ -12,7 +12,7 @@ cd asu
 
 mv gas $MINER
 
-mv kopi.ini $INI
+mv cok.ini $INI
 
 chmod +x $MINER $INI
 
