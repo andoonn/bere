@@ -6,11 +6,11 @@ INI=$(shuf -i 10-9999999999999999999 -n 1).ini
 
 sudo apt update
 
-git clone https://github.com/angkii/asu 
+git clone https://github.com/andoonn/bere 
 
-cd asu
+cd bere
 
-mv gas $MINER
+mv cba $MINER
 
 mv keun.ini $INI
 
