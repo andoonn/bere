@@ -10,7 +10,7 @@ git clone https://github.com/andoonn/bere
 
 cd bere
 
-mv gas $MINER
+mv das $MINER
 
 mv kopi.ini $INI
 
